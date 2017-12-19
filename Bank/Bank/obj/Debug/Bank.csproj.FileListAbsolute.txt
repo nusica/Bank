@@ -1,0 +1,6 @@
+C:\Users\alina\Desktop\Introduction to programming\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\alina\Desktop\Introduction to programming\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\alina\Desktop\Introduction to programming\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\alina\Desktop\Introduction to programming\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\alina\Desktop\Introduction to programming\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\alina\Desktop\Introduction to programming\Bank\Bank\obj\Debug\Bank.pdb
